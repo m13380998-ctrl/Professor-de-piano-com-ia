@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Piano & Organ AI Teacher",
+  "description": "Um aplicativo interativo de piano e órgão que usa o Gemini para analisar músicas do YouTube e ensinar você a tocar através de guias visuais.",
+  "requestFramePermissions": []
+}
